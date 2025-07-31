@@ -1,5 +1,24 @@
-# 💫 About Me:
-# 👋 Halo, saya Hananditya | Hi, I'm Hananditya<br><br>🇮🇩 **Lulusan SMK yang fokus dalam pengembangan web backend menggunakan PHP dan Laravel.**  <br>Saya senang membangun sistem backend yang efisien dan terstruktur.<br><br>Saya selalu antusias untuk belajar teknologi baru dan mengembangkan keterampilan saya sebagai developer profesional.<br><br>📫 Silakan cek beberapa proyek saya di bawah ini atau hubungi saya melalui email.<br><br>---<br><br>🇬🇧 **A vocational high school graduate focused on backend web development using PHP and Laravel.**  <br>I enjoy building efficient and well-structured backend systems.<br><br>I'm always excited to learn new technologies and grow as a professional developer.<br><br>📫 Feel free to check out my projects below or reach out via email.<br><br>---<br><br>### 🔧 Tech Stack<br>- 🐘 PHP • ⚡ Laravel • 🔧 CodeIgniter • 🔌 Laravel Livewire<br>- 🛢️ MySQL • 🔐 REST API • 🔑 JWT<br>- 🎨 Tailwind CSS • 🌐 JavaScript *(standard)* • 🔁 AJAX<br>- 🛠️ Git • 📁 GitHub • 📬 Postman<br><br>
+ 👋 HanandityaKen
+
+**🇮🇩 Lulusan SMK, fokus pada backend web development dengan PHP & Laravel.**  
+Saya senang membangun sistem yang efisien & terstruktur.  
+Saya selalu antusias untuk belajar teknologi baru dan mengembangkan keterampilan saya sebagai developer profesional.  
+📫 Lihat proyek saya di bawah atau hubungi lewat email.
+
+---
+
+**🇬🇧 Vocational high school graduate focused on backend web development using PHP & Laravel.**  
+I enjoy building efficient and well-structured backend systems.  
+I'm always excited to learn new technologies and grow as a professional developer.  
+📫 Check out my projects below or reach out via email.
+
+---
+
+## 🔧 Tech Stack
+- 🐘 PHP • ⚡ Laravel • 🔧 CodeIgniter • 🔌 Livewire  
+- 🛢️ MySQL • 🔐 REST API • 🔑 JWT  
+- 🎨 Tailwind CSS • 🌐 JavaScript • 🔁 AJAX  
+- 🛠️ Git • 📁 GitHub • 📬 Postman
 
 
 ## 🌐 Socials:
