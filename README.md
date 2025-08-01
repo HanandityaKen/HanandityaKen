@@ -1,13 +1,13 @@
  👋 HanandityaKen
 
-**🇮🇩 Lulusan SMK, fokus pada backend web development dengan PHP & Laravel.**  
+**🇮🇩 Backend web developer dengan fokus pada PHP & Laravel.**  
 Saya senang membangun sistem yang efisien & terstruktur.  
 Saya selalu antusias untuk belajar teknologi baru dan mengembangkan keterampilan saya sebagai developer profesional.  
 📫 Lihat proyek saya di bawah atau hubungi lewat email.
 
 ---
 
-**🇬🇧 Vocational high school graduate focused on backend web development using PHP & Laravel.**  
+**🇬🇧 Backend web developer focused on PHP & Laravel.**  
 I enjoy building efficient and well-structured backend systems.  
 I'm always excited to learn new technologies and grow as a professional developer.  
 📫 Check out my projects below or reach out via email.
